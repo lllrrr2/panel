@@ -7,9 +7,9 @@ import (
 	"github.com/leonelquinteros/gotext"
 	"gorm.io/gorm"
 
-	"github.com/tnb-labs/panel/internal/biz"
-	"github.com/tnb-labs/panel/internal/queuejob"
-	"github.com/tnb-labs/panel/pkg/queue"
+	"github.com/tnborg/panel/internal/biz"
+	"github.com/tnborg/panel/internal/queuejob"
+	"github.com/tnborg/panel/pkg/queue"
 )
 
 type taskRepo struct {

@@ -8,12 +8,12 @@ import (
 
 	"github.com/go-resty/resty/v2"
 
-	"github.com/tnb-labs/panel/internal/biz"
-	"github.com/tnb-labs/panel/internal/http/request"
-	"github.com/tnb-labs/panel/pkg/shell"
-	"github.com/tnb-labs/panel/pkg/tools"
-	"github.com/tnb-labs/panel/pkg/types"
-	"github.com/tnb-labs/panel/pkg/types/docker/image"
+	"github.com/tnborg/panel/internal/biz"
+	"github.com/tnborg/panel/internal/http/request"
+	"github.com/tnborg/panel/pkg/shell"
+	"github.com/tnborg/panel/pkg/tools"
+	"github.com/tnborg/panel/pkg/types"
+	"github.com/tnborg/panel/pkg/types/docker/image"
 )
 
 type containerImageRepo struct {

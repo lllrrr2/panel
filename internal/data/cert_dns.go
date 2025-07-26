@@ -3,8 +3,8 @@ package data
 import (
 	"gorm.io/gorm"
 
-	"github.com/tnb-labs/panel/internal/biz"
-	"github.com/tnb-labs/panel/internal/http/request"
+	"github.com/tnborg/panel/internal/biz"
+	"github.com/tnborg/panel/internal/http/request"
 )
 
 type certDNSRepo struct {

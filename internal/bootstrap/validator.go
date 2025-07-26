@@ -8,7 +8,7 @@ import (
 	"github.com/knadh/koanf/v2"
 	"gorm.io/gorm"
 
-	"github.com/tnb-labs/panel/internal/http/rule"
+	"github.com/tnborg/panel/internal/http/rule"
 )
 
 // NewValidator just for register global rules

@@ -7,7 +7,7 @@ import (
 	"github.com/go-rat/utils/crypt"
 	"gorm.io/gorm"
 
-	"github.com/tnb-labs/panel/internal/app"
+	"github.com/tnborg/panel/internal/app"
 )
 
 type UserToken struct {

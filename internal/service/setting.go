@@ -3,9 +3,9 @@ package service
 import (
 	"net/http"
 
-	"github.com/tnb-labs/panel/internal/biz"
-	"github.com/tnb-labs/panel/internal/http/request"
-	"github.com/tnb-labs/panel/pkg/tools"
+	"github.com/tnborg/panel/internal/biz"
+	"github.com/tnborg/panel/internal/http/request"
+	"github.com/tnborg/panel/pkg/tools"
 )
 
 type SettingService struct {

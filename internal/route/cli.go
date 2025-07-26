@@ -4,7 +4,7 @@ import (
 	"github.com/leonelquinteros/gotext"
 	"github.com/urfave/cli/v3"
 
-	"github.com/tnb-labs/panel/internal/service"
+	"github.com/tnborg/panel/internal/service"
 )
 
 type Cli struct {

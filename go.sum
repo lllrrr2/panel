@@ -237,6 +237,8 @@ github.com/libdns/tencentcloud v1.2.0 h1:SBbZ9gUZ+ba/p2d8NpiOcj+WZTdYqB5Fz7zypdb
 github.com/libdns/tencentcloud v1.2.0/go.mod h1:o0+WCxQ7LGLtyjnjYU4HbGW9uVjN44SdUDhxdUYLGPw=
 github.com/libdns/vercel v0.0.2 h1:slfQWxgUdYFgKfPbK1vLE7k1CZSspHFlwC+nEWlm79w=
 github.com/libdns/vercel v0.0.2/go.mod h1:z2NBq/OQ8G0JPglZmit0YnqHm/k+eOz8s4XyLvYxhQo=
+github.com/libtnb/acmez/v3 v3.0.0-20250707093727-dc5aedd96413 h1:q6Qttk+i7r8JWw1kvt0gBkCa+9mEUZ3KV25rBs2Kiik=
+github.com/libtnb/acmez/v3 v3.0.0-20250707093727-dc5aedd96413/go.mod h1:L1wOU06KKvq7tswuMDwKdcHeKpFFgkppZy/y0DFxagQ=
 github.com/linode/linodego v1.23.0 h1:s0ReCZtuN9Z1IoUN9w1RLeYO1dMZUGPwOQ/IBFsBHtU=
 github.com/linode/linodego v1.23.0/go.mod h1:0U7wj/UQOqBNbKv1FYTXiBUXueR8DY4HvIotwE0ENgg=
 github.com/magiconair/properties v1.8.1/go.mod h1:PppfXfuXeibc/6YijjN8zIbojt8czPbwD3XqdrwzmxQ=
@@ -346,8 +348,6 @@ github.com/tklauser/go-sysconf v0.3.14/go.mod h1:1ym4lWMLUOhuBOPGtRcJm7tEGX4SCYN
 github.com/tklauser/numcpus v0.9.0 h1:lmyCHtANi8aRUgkckBgoDk1nHCux3n2cgkJLXdQGPDo=
 github.com/tklauser/numcpus v0.9.0/go.mod h1:SN6Nq1O3VychhC1npsWostA+oW+VOQTxZrS604NSRyI=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5/go.mod h1:ncp9v5uamzpCO7NfCPTXjqaC+bZgJeR0sMTm6dMHP7U=
-github.com/tnb-labs/acmez/v3 v3.0.0-20250707093727-dc5aedd96413 h1:M1ubPXmO7ez2Ay/4J0MVS3HjkKEnWhHXfHvOOi7IMj8=
-github.com/tnb-labs/acmez/v3 v3.0.0-20250707093727-dc5aedd96413/go.mod h1:L1wOU06KKvq7tswuMDwKdcHeKpFFgkppZy/y0DFxagQ=
 github.com/tufanbarisyildirim/gonginx v0.0.0-20250620092546-c3e307e36701 h1:JgeHIJzRSEdcuLXufZrni5+a4yDnBhQG+DdKhqCFhq0=
 github.com/tufanbarisyildirim/gonginx v0.0.0-20250620092546-c3e307e36701/go.mod h1:ALbEe81QPWOZjDKCKNWodG2iqCMtregG8+ebQgjx2+4=
 github.com/urfave/cli/v3 v3.3.8 h1:BzolUExliMdet9NlJ/u4m5vHSotJ3PzEqSAZ1oPMa/E=
@@ -557,8 +557,8 @@ gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c/go.mod h1:K4uyk7z7BCEPqu6E+C
 gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
 gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
-gorm.io/gorm v1.30.0 h1:qbT5aPv1UH8gI99OsRlvDToLxW5zR7FzS9acZDOZcgs=
-gorm.io/gorm v1.30.0/go.mod h1:8Z33v652h4//uMA76KjeDH8mJXPm1QNCYrMeatR0DOE=
+gorm.io/gorm v1.30.1 h1:lSHg33jJTBxs2mgJRfRZeLDG+WZaHYCk3Wtfl6Ngzo4=
+gorm.io/gorm v1.30.1/go.mod h1:8Z33v652h4//uMA76KjeDH8mJXPm1QNCYrMeatR0DOE=
 gotest.tools/v3 v3.5.1 h1:EENdUnS3pdur5nybKYIh2Vfgc8IUNBjxDPSjtiJcOzU=
 gotest.tools/v3 v3.5.1/go.mod h1:isy3WKz7GK6uNw/sbHzfKBLvlvXwUyV06n6brMxxopU=
 honnef.co/go/tools v0.0.0-20190102054323-c2f93a96b099/go.mod h1:rf3lG4BRIbNafJWhAfAdb/ePZxsR/4RtNHQocxwk9r4=

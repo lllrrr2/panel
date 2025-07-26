@@ -6,10 +6,10 @@ import (
 
 	"github.com/go-rat/chix"
 
-	"github.com/tnb-labs/panel/internal/app"
-	"github.com/tnb-labs/panel/internal/biz"
-	"github.com/tnb-labs/panel/internal/http/request"
-	"github.com/tnb-labs/panel/pkg/io"
+	"github.com/tnborg/panel/internal/app"
+	"github.com/tnborg/panel/internal/biz"
+	"github.com/tnborg/panel/internal/http/request"
+	"github.com/tnborg/panel/pkg/io"
 )
 
 type WebsiteService struct {

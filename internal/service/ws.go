@@ -11,10 +11,10 @@ import (
 	"github.com/leonelquinteros/gotext"
 	stdssh "golang.org/x/crypto/ssh"
 
-	"github.com/tnb-labs/panel/internal/biz"
-	"github.com/tnb-labs/panel/internal/http/request"
-	"github.com/tnb-labs/panel/pkg/shell"
-	"github.com/tnb-labs/panel/pkg/ssh"
+	"github.com/tnborg/panel/internal/biz"
+	"github.com/tnborg/panel/internal/http/request"
+	"github.com/tnborg/panel/pkg/shell"
+	"github.com/tnborg/panel/pkg/ssh"
 )
 
 type WsService struct {

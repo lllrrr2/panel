@@ -6,10 +6,10 @@ import (
 
 	"github.com/go-rat/chix"
 
-	"github.com/tnb-labs/panel/internal/http/request"
-	"github.com/tnb-labs/panel/pkg/firewall"
-	"github.com/tnb-labs/panel/pkg/os"
-	"github.com/tnb-labs/panel/pkg/systemctl"
+	"github.com/tnborg/panel/internal/http/request"
+	"github.com/tnborg/panel/pkg/firewall"
+	"github.com/tnborg/panel/pkg/os"
+	"github.com/tnborg/panel/pkg/systemctl"
 )
 
 type FirewallService struct {

@@ -23,8 +23,8 @@ import (
 
 	"github.com/leonelquinteros/gotext"
 
-	"github.com/tnb-labs/panel/internal/http/request"
-	"github.com/tnb-labs/panel/pkg/shell"
+	"github.com/tnborg/panel/internal/http/request"
+	"github.com/tnborg/panel/pkg/shell"
 )
 
 type ToolboxBenchmarkService struct {

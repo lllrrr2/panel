@@ -5,12 +5,12 @@ package main
 import (
 	"github.com/google/wire"
 
-	"github.com/tnb-labs/panel/internal/app"
-	"github.com/tnb-labs/panel/internal/apps"
-	"github.com/tnb-labs/panel/internal/bootstrap"
-	"github.com/tnb-labs/panel/internal/data"
-	"github.com/tnb-labs/panel/internal/route"
-	"github.com/tnb-labs/panel/internal/service"
+	"github.com/tnborg/panel/internal/app"
+	"github.com/tnborg/panel/internal/apps"
+	"github.com/tnborg/panel/internal/bootstrap"
+	"github.com/tnborg/panel/internal/data"
+	"github.com/tnborg/panel/internal/route"
+	"github.com/tnborg/panel/internal/service"
 )
 
 // initCli init command line.

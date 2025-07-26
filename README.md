@@ -6,12 +6,12 @@
 
 <div align="center">
 
-[![Go](https://img.shields.io/github/go-mod/go-version/tnb-labs/panel)](https://go.dev/)
-[![Release](https://img.shields.io/github/release/tnb-labs/panel.svg)](https://github.com/tnb-labs/panel/releases)
-[![Test](https://github.com/tnb-labs/panel/actions/workflows/test.yml/badge.svg)](https://github.com/tnb-labs/panel/actions)
-[![Report Card](https://goreportcard.com/badge/github.com/tnb-labs/panel)](https://goreportcard.com/report/github.com/tnb-labs/panel)
-[![Stars](https://img.shields.io/github/stars/tnb-labs/panel?style=flat)](https://github.com/tnb-labs/panel)
-[![License](https://img.shields.io/github/license/tnb-labs/panel)](https://www.gnu.org/licenses/agpl-3.0.html)
+[![Go](https://img.shields.io/github/go-mod/go-version/tnborg/panel)](https://go.dev/)
+[![Release](https://img.shields.io/github/release/tnborg/panel.svg)](https://github.com/tnborg/panel/releases)
+[![Test](https://github.com/tnborg/panel/actions/workflows/test.yml/badge.svg)](https://github.com/tnborg/panel/actions)
+[![Report Card](https://goreportcard.com/badge/github.com/tnborg/panel)](https://goreportcard.com/report/github.com/tnborg/panel)
+[![Stars](https://img.shields.io/github/stars/tnborg/panel?style=flat)](https://github.com/tnborg/panel)
+[![License](https://img.shields.io/github/license/tnborg/panel)](https://www.gnu.org/licenses/agpl-3.0.html)
 
 </div>
 
@@ -44,7 +44,7 @@ curl -fsLm 10 -o install.sh https://dl.cdn.haozi.net/panel/install.sh && bash in
 
 ## 合作伙伴
 
-如果耗子面板对您有帮助，欢迎[赞助我们](https://github.com/tnb-labs/panel/issues/90)，同时感谢以下支持者/赞助商的支持：
+如果耗子面板对您有帮助，欢迎[赞助我们](https://github.com/tnborg/panel/issues/90)，同时感谢以下支持者/赞助商的支持：
 
 <p align="center">
   <a href="https://www.weixiaoduo.com/">
@@ -66,16 +66,16 @@ curl -fsLm 10 -o install.sh https://dl.cdn.haozi.net/panel/install.sh && bash in
 
 <p align="center">
   <a target="_blank" href="https://afdian.com/a/tnblabs">
-    <img alt="sponsors" src="https://github.com/tnb-labs/sponsor/blob/main/sponsors.svg?raw=true"/>
+    <img alt="sponsors" src="https://github.com/tnborg/sponsor/blob/main/sponsors.svg?raw=true"/>
   </a>
 </p>
 
 ## Star 历史
 
-<a href="https://star-history.com/#tnb-labs/panel&Date">
+<a href="https://star-history.com/#tnborg/panel&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=tnb-labs/panel&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=tnb-labs/panel&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=tnb-labs/panel&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=tnborg/panel&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=tnborg/panel&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=tnborg/panel&type=Date" />
  </picture>
 </a>

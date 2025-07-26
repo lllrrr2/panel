@@ -11,7 +11,7 @@ import (
 	"github.com/go-rat/sessions"
 	"github.com/knadh/koanf/v2"
 	"github.com/leonelquinteros/gotext"
-	"github.com/tnb-labs/panel/pkg/punycode"
+	"github.com/tnborg/panel/pkg/punycode"
 )
 
 // Entrance 确保通过正确的入口访问

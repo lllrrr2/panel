@@ -3,9 +3,9 @@ package biz
 import (
 	"time"
 
-	"github.com/tnb-labs/panel/internal/http/request"
-	"github.com/tnb-labs/panel/pkg/acme"
-	"github.com/tnb-labs/panel/pkg/types"
+	"github.com/tnborg/panel/internal/http/request"
+	"github.com/tnborg/panel/pkg/acme"
+	"github.com/tnborg/panel/pkg/types"
 )
 
 type Cert struct {

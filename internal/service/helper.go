@@ -9,7 +9,7 @@ import (
 	"github.com/go-rat/chix"
 	"github.com/gookit/validate"
 
-	"github.com/tnb-labs/panel/internal/http/request"
+	"github.com/tnborg/panel/internal/http/request"
 )
 
 // SuccessResponse 通用成功响应

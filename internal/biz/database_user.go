@@ -6,8 +6,8 @@ import (
 	"github.com/go-rat/utils/crypt"
 	"gorm.io/gorm"
 
-	"github.com/tnb-labs/panel/internal/app"
-	"github.com/tnb-labs/panel/internal/http/request"
+	"github.com/tnborg/panel/internal/app"
+	"github.com/tnborg/panel/internal/http/request"
 )
 
 type DatabaseUserStatus string

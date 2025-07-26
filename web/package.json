@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/tnb-labs/panel"
+    "url": "https://github.com/tnborg/panel"
   },
   "scripts": {
     "dev": "vite",

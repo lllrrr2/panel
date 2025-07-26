@@ -12,9 +12,9 @@ import (
 	"github.com/leonelquinteros/gotext"
 	"github.com/spf13/cast"
 
-	"github.com/tnb-labs/panel/internal/service"
-	"github.com/tnb-labs/panel/pkg/io"
-	"github.com/tnb-labs/panel/pkg/shell"
+	"github.com/tnborg/panel/internal/service"
+	"github.com/tnborg/panel/pkg/io"
+	"github.com/tnborg/panel/pkg/shell"
 )
 
 type App struct {

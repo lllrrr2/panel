@@ -11,8 +11,8 @@ import (
 	sloggorm "github.com/orandin/slog-gorm"
 	"gorm.io/gorm"
 
-	"github.com/tnb-labs/panel/internal/app"
-	"github.com/tnb-labs/panel/internal/migration"
+	"github.com/tnborg/panel/internal/app"
+	"github.com/tnborg/panel/internal/migration"
 )
 
 func NewDB(conf *koanf.Koanf, log *slog.Logger) (*gorm.DB, error) {

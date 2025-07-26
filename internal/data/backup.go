@@ -13,13 +13,13 @@ import (
 	"github.com/shirou/gopsutil/disk"
 	"gorm.io/gorm"
 
-	"github.com/tnb-labs/panel/internal/app"
-	"github.com/tnb-labs/panel/internal/biz"
-	"github.com/tnb-labs/panel/pkg/db"
-	"github.com/tnb-labs/panel/pkg/io"
-	"github.com/tnb-labs/panel/pkg/shell"
-	"github.com/tnb-labs/panel/pkg/tools"
-	"github.com/tnb-labs/panel/pkg/types"
+	"github.com/tnborg/panel/internal/app"
+	"github.com/tnborg/panel/internal/biz"
+	"github.com/tnborg/panel/pkg/db"
+	"github.com/tnborg/panel/pkg/io"
+	"github.com/tnborg/panel/pkg/shell"
+	"github.com/tnborg/panel/pkg/tools"
+	"github.com/tnborg/panel/pkg/types"
 )
 
 type backupRepo struct {

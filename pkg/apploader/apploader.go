@@ -8,7 +8,7 @@ import (
 
 	"github.com/go-chi/chi/v5"
 
-	"github.com/tnb-labs/panel/pkg/types"
+	"github.com/tnborg/panel/pkg/types"
 )
 
 var apps sync.Map

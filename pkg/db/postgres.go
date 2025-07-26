@@ -8,8 +8,8 @@ import (
 
 	_ "github.com/lib/pq"
 
-	"github.com/tnb-labs/panel/pkg/systemctl"
-	"github.com/tnb-labs/panel/pkg/types"
+	"github.com/tnborg/panel/pkg/systemctl"
+	"github.com/tnborg/panel/pkg/types"
 )
 
 type Postgres struct {

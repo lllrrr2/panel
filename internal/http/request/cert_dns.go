@@ -1,6 +1,6 @@
 package request
 
-import "github.com/tnb-labs/panel/pkg/acme"
+import "github.com/tnborg/panel/pkg/acme"
 
 type CertDNSCreate struct {
 	Type acme.DnsType  `form:"type" json:"type" validate:"required|in:aliyun,tencent,huawei,westcn,cloudflare,godaddy,gcore,porkbun,namecheap,namesilo,namecom,cloudns,duckdns,hetzner,linode,vercel"`

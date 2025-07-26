@@ -12,15 +12,15 @@ import (
 	"go.yaml.in/yaml/v3"
 	"gorm.io/gorm"
 
-	"github.com/tnb-labs/panel/internal/app"
-	"github.com/tnb-labs/panel/internal/biz"
-	"github.com/tnb-labs/panel/internal/http/request"
-	"github.com/tnb-labs/panel/pkg/cert"
-	"github.com/tnb-labs/panel/pkg/firewall"
-	"github.com/tnb-labs/panel/pkg/io"
-	"github.com/tnb-labs/panel/pkg/os"
-	"github.com/tnb-labs/panel/pkg/systemctl"
-	"github.com/tnb-labs/panel/pkg/types"
+	"github.com/tnborg/panel/internal/app"
+	"github.com/tnborg/panel/internal/biz"
+	"github.com/tnborg/panel/internal/http/request"
+	"github.com/tnborg/panel/pkg/cert"
+	"github.com/tnborg/panel/pkg/firewall"
+	"github.com/tnborg/panel/pkg/io"
+	"github.com/tnborg/panel/pkg/os"
+	"github.com/tnborg/panel/pkg/systemctl"
+	"github.com/tnborg/panel/pkg/types"
 )
 
 type settingRepo struct {

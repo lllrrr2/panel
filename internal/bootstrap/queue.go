@@ -1,7 +1,7 @@
 package bootstrap
 
 import (
-	"github.com/tnb-labs/panel/pkg/queue"
+	"github.com/tnborg/panel/pkg/queue"
 )
 
 func NewQueue() *queue.Queue {

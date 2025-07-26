@@ -8,8 +8,8 @@ import (
 	"github.com/go-rat/chix"
 	"github.com/shirou/gopsutil/process"
 
-	"github.com/tnb-labs/panel/internal/http/request"
-	"github.com/tnb-labs/panel/pkg/types"
+	"github.com/tnborg/panel/internal/http/request"
+	"github.com/tnborg/panel/pkg/types"
 )
 
 type ProcessService struct {

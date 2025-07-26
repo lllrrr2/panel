@@ -5,7 +5,7 @@ package biz
 import (
 	http "net/http"
 
-	biz "github.com/tnb-labs/panel/internal/biz"
+	biz "github.com/tnborg/panel/internal/biz"
 
 	mock "github.com/stretchr/testify/mock"
 

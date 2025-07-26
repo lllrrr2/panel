@@ -3,7 +3,7 @@ package route
 import (
 	"github.com/go-chi/chi/v5"
 
-	"github.com/tnb-labs/panel/internal/service"
+	"github.com/tnborg/panel/internal/service"
 )
 
 type Ws struct {

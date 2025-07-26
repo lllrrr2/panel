@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/suite"
 
-	"github.com/tnb-labs/panel/pkg/io"
+	"github.com/tnborg/panel/pkg/io"
 )
 
 type NginxTestSuite struct {

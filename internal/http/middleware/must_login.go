@@ -13,7 +13,7 @@ import (
 	"github.com/leonelquinteros/gotext"
 	"github.com/spf13/cast"
 
-	"github.com/tnb-labs/panel/internal/biz"
+	"github.com/tnborg/panel/internal/biz"
 )
 
 // MustLogin 确保已登录

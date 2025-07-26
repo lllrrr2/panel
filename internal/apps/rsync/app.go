@@ -11,10 +11,10 @@ import (
 	"github.com/go-rat/utils/str"
 	"github.com/leonelquinteros/gotext"
 
-	"github.com/tnb-labs/panel/internal/service"
-	"github.com/tnb-labs/panel/pkg/io"
-	"github.com/tnb-labs/panel/pkg/shell"
-	"github.com/tnb-labs/panel/pkg/systemctl"
+	"github.com/tnborg/panel/internal/service"
+	"github.com/tnborg/panel/pkg/io"
+	"github.com/tnborg/panel/pkg/shell"
+	"github.com/tnborg/panel/pkg/systemctl"
 )
 
 type App struct {

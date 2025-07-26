@@ -1,4 +1,4 @@
-module github.com/tnb-labs/panel
+module github.com/tnborg/panel
 
 go 1.24.0
 
@@ -61,7 +61,7 @@ require (
 	golang.org/x/crypto v0.40.0
 	golang.org/x/net v0.42.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
-	gorm.io/gorm v1.30.0
+	gorm.io/gorm v1.30.1
 )
 
 require (
@@ -107,4 +107,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/mholt/acmez/v3 => github.com/tnb-labs/acmez/v3 v3.0.0-20250707093727-dc5aedd96413
+replace github.com/mholt/acmez/v3 => github.com/libtnb/acmez/v3 v3.0.0-20250707093727-dc5aedd96413

@@ -6,9 +6,9 @@ import (
 	"github.com/go-rat/utils/crypt"
 	"gorm.io/gorm"
 
-	"github.com/tnb-labs/panel/internal/app"
-	"github.com/tnb-labs/panel/internal/http/request"
-	"github.com/tnb-labs/panel/pkg/ssh"
+	"github.com/tnborg/panel/internal/app"
+	"github.com/tnborg/panel/internal/http/request"
+	"github.com/tnborg/panel/pkg/ssh"
 )
 
 type SSH struct {

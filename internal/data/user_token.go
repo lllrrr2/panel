@@ -19,7 +19,7 @@ import (
 	"github.com/spf13/cast"
 	"gorm.io/gorm"
 
-	"github.com/tnb-labs/panel/internal/biz"
+	"github.com/tnborg/panel/internal/biz"
 )
 
 type userTokenRepo struct {

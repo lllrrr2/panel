@@ -14,7 +14,7 @@ import (
 	"github.com/knadh/koanf/v2"
 	"github.com/robfig/cron/v3"
 
-	"github.com/tnb-labs/panel/pkg/queue"
+	"github.com/tnborg/panel/pkg/queue"
 )
 
 type Web struct {
